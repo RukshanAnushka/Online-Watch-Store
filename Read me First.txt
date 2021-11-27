@@ -1,0 +1,67 @@
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+				WELOCME TO WATCH STORE....!
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+		How To Run?
+
+You’ll need XAMP Server or WAMP Server. 
+Put the file inside “c:/xampp/htdocs/” or “c:/wamp/www/”.
+
+“c:/xampp/htdocs/OnlineWatchStore” 
+“c:/wamp/www/OnlineWatchStore”
+
+Create a database and import sql file to run.
+Go To “localhost/phpmyadmin” in any browser and create Database named “watch”.
+In That Database, Import "watch.sql".
+
+sql and finally open go to URL: “http://localhost/OnlineWatchStore/”
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+		Login Info:
+
+If you want to login to admin account:
+open go to URL: “http://localhost/OnlineWatchStore/login”
+
+Then Give the user name and password:
+	 ________________________
+	| 			 |
+	| User name : ecommerce  |
+	| Password  : 16ict058   |
+	|________________________|
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+		
+		Payment Methods:
+
+
+How to test a PayHere payment on Sandbox Mode?
+
+You can use following test card numbers to test simulated successful payments.
+		
+		Visa : 4916217501611292
+		MasterCard : 5307732125531191
+		AMEX : 346781005510225
+
+For ‘Name on Card’, ‘CVV’ & ‘Expiry date’ you can enter any valid data.
+Any card except the above test cards will result in a failed payment.
+
+coupon code - NTH3D769
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+Thank You..!
+Enjoy......
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+
+			  
+
+
